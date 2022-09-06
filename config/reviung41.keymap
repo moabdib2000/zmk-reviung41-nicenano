@@ -88,8 +88,7 @@
     &kp ESC  &trans  &trans  &trans  &trans  &trans            &kp C_PREV  &kp PG_UP   &kp UP     &trans         &trans         &trans
     &trans   &trans  &trans  &trans  &trans  &trans            &kp HOME    &kp LEFT    &kp DOWN   &kp RIGHT      &kp END        &kp C_PLAY_PAUSE
     &trans   &trans  &trans  &trans  &trans  &trans            &kp C_NEXT  &kp PG_DN   &none      &kp C_VOL_DN   &kp C_VOL_UP   &kp C_MUTE
-                                    &trans  &trans    &kp ENT    &mo _ADJUST     &trans
-                    >;
+                                    &trans  &trans    &trans    &mo _ADJUST     &trans     >;
             };
 
     // RAISE LAYER
