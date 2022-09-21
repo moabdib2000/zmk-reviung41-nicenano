@@ -85,7 +85,7 @@
 
     lower_layer {
      bindings = <
-    &kp ESC  &trans  &trans  &trans  &trans  &trans            &trans  &kp PG_DN   &kp UP     &kp PG_UP         &trans         &trans
+    &kp ESC  &trans  &trans  &trans  &trans  &trans            &trans  &kp PG_DN   &kp UP     &kp PG_UP         &trans         &UNDERSCORE
     &trans   &AT_SIGN  &trans  &trans  &trans  &trans            &kp HOME    &kp LEFT    &kp DOWN   &kp RIGHT      &kp END        &trans
     &trans   &trans  &trans  &trans  &trans  &trans            &trans  &trans   &kp LBKT      &kp RBKT   &trans   &trans
                                     &trans  &trans    &trans    &mo _ADJUST     &DEL     >;
