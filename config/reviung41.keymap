@@ -88,7 +88,7 @@
     &kp ESC  &trans  &trans  &trans  &trans  &trans            &trans  &kp PG_DN   &kp UP     &kp PG_UP         &trans         &kp UNDERSCORE
     &trans   &kp AT_SIGN  &trans  &trans  &trans  &trans            &kp HOME    &kp LEFT    &kp DOWN   &kp RIGHT      &kp END        &trans
     &trans   &trans  &trans  &trans  &trans  &trans            &trans  &trans   &kp LBKT      &kp RBKT   &trans   &trans
-                                    &trans  &trans    &trans    &mo _ADJUST     &DEL     >;
+                                    &trans  &trans    &trans    &mo _ADJUST     &kp DEL     >;
             };
 
     // RAISE LAYER
