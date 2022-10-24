@@ -51,7 +51,6 @@
 //     continue-list = <UNDERSCORE MINUS>;
 // };
 
-;; cuando yo escribo , le doy al espacio con el pulgar derecho
 
 / {
   keymap {
